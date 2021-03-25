@@ -1,7 +1,7 @@
 const helloWorld = (name = "World") => {
-  return `Hello ${name}!`;
+  return `Hello my friend ${name}!`;
 }
 
 const add =(a,b) => {
-  return a+b;
+  return (a+1)+(b+1);
 }
