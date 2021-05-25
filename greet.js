@@ -7,3 +7,6 @@ const add =(a,b) => {
 }
 
 //  This is the message changed in branch master
+
+//  Add code from test branch
+helloWOrld('sam');
